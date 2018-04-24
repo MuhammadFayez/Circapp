@@ -1,0 +1,212 @@
+body
+{
+    background-image: url('images/back.jpg');
+    color: aliceblue;
+}
+
+.wellcome-message{
+    color: aliceblue;
+    text-align: center;
+}
+.wellcome-message:hover{
+    color: gray;
+    transition: all 0.5s ease-in-out;
+    margin-bottom: 30px;
+}
+
+
+.teams
+{
+    margin-left: 200px;
+    font-size: 20px;
+   color:  crimson;
+}
+
+#team1{
+border-top: transparent;
+border-left: transparent;
+border-right: transparent;
+padding: 6px;
+background: transparent;
+border-bottom:1px  solid cornflowerblue;
+color: aliceblue;
+}
+
+#team2{
+
+    border-top: transparent;
+border-left: transparent;
+border-right: transparent;
+    margin-right: 20px;
+    padding: 6px;
+    background: transparent;
+    border-bottom: 1px solid cornflowerblue;
+    color: aliceblue;
+}
+
+.btn-design{
+    
+    background-color: crimson;
+    font-size: 20px;
+    height: 50px;
+    width:120px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 50px;
+    border-style: hidden;    
+}
+
+.world-cup
+{
+    margin-top: 20px!important;
+    font-size: 20px;
+}
+#teamA
+{
+    display: inline;
+    margin-left: 250px;
+    font-size: 60px;
+    color: khaki;
+    
+}
+
+#teamB
+{
+    display: inline;
+    margin-left: 500px;
+    font-size: 60px;
+    color: khaki;    
+}
+
+#teamToss{
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+        padding: 6px;
+        background: transparent;
+        border-bottom: 1px solid cornflowerblue;
+        color: aliceblue;
+}
+
+#toss{
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+        margin-right: 20px;
+        padding: 6px;
+        background: transparent;
+        border-bottom: 1px solid cornflowerblue;
+        color: aliceblue;
+}
+#Wickets{
+    display: inline;
+    color: khaki;
+}
+
+#wicketdown{
+    display: inline;
+    margin-left: 30px;
+    font-size: 30px;
+    color: crimson;
+}
+
+#score{
+
+    display: inline-block;
+    margin-left: 30px;
+    color: khaki;
+}
+#scoreIncrese{
+    display: inline-block;
+    margin-left: 30px;
+    font-size: 30px;
+}
+
+#balls{
+    color: khaki;
+}
+#noOfBalls{
+    color: crimson;
+    font-size: 30px;
+}
+#Overs{
+    color: khaki;
+}
+#runButton
+{
+    display: block;
+    background-color: crimson;
+    font-size: 20px;
+    height: 40px;
+    width:100px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 50px;
+    border-style: hidden;
+}
+#runButton:hover{
+    background-color: darksalmon;
+    transition: all 0.5s ease-in-out;
+}
+
+
+
+
+
+#Wickets1{
+    display: inline;
+    color: khaki;
+}
+
+#wicketdown1{
+    display: inline;
+    margin-left: 30px;
+    font-size: 30px;
+    color: crimson;
+}
+
+#score1{
+
+    display: inline-block;
+    margin-left: 30px;
+    color: khaki;
+}
+#scoreIncrese1{
+    display: inline-block;
+    margin-left: 30px;
+    font-size: 30px;
+}
+
+#balls1{
+    color: khaki;
+}
+#noOfBalls1{
+    color: crimson;
+    font-size: 30px;
+}
+#Overs1{
+    color: khaki;
+}
+
+#runButton1
+{
+    display: block;
+    background-color: crimson;
+    font-size: 20px;
+    height: 40px;
+    width:100px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 50px;
+    border-style: hidden;
+}
+#runButton1:hover{
+    background-color: darksalmon;
+    transition: all 0.5s ease-in-out;
+}
+
+
+#Result{
+    text-align: center;
+    color:rgb(0, 113, 128);
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}

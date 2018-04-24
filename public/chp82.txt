@@ -1,0 +1,6 @@
+1) when you perform onssubmit on a function we wrtite return with it ..
+2) in function  we wrtite in the end  return false;	
+
+3) for drop down we use selected index 
+
+reg exp for email valid : /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/
